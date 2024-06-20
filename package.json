@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.2",
-    "@next/bundle-analyzer": "^11.0.1",
+    "@next/bundle-analyzer": "^11.1.4",
     "@splitbee/web": "^0.2.4",
     "axios": "^0.21.1",
     "next": "^12.0.7",
